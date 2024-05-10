@@ -1,6 +1,6 @@
 ### Salman Khan
 
-> Sr.Full-Stack Mobile App Developer | React Native | EXPO | Flutter
+## Sr.Full-Stack Mobile App Developer | React Native | EXPO | Flutter
 
 With a robust background spanning 7 years in the industry, I am a seasoned Senior Full-Stack Web and Mobile App Developer, specializing in React Native, FLutter and the MERN stack. My commitment lies in realizing conceptualizations into practical solutions, catering to clients globally with a strong emphasis on innovation and user-centric design paradigms.
 
